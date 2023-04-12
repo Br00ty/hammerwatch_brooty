@@ -1,0 +1,149 @@
+﻿{
+  "tracker_default": {
+    "type": "container",
+    "background": "#000000",
+    "content": {
+      "type": "dock",
+      "dropshadow": true,
+      "content": [
+        {
+          "type": "dock",
+          "dock": "left",
+          "v_alignment": "stretch",
+          "content": [
+            {
+              "type": "group",
+              "header": "Settings",
+              "dock": "top",
+              "content": {
+                "type": "layout",
+                "key": "settings_grid"
+              }
+            }
+          ]
+        },
+        {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "Castle Campaign",
+              "content": {
+                "type": "tabbed",
+                "tabs": [
+                  {
+                    "title": "Prison|Floor 1",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "castle1"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Prison|Floor 2",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "castle2"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Prison|Floor 3",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "castle3"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Armory|Floor 4",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "castle4"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Armory|Floor 5",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "castle5"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Armory|Floor 6",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "castle6"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Archives|Floor 7",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "castle7"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Archives|Floor 8",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "castle8"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Archives|Floor 9",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "castle9"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Chambers|Floor 10",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "castle10"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Chambers|Floor 11",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "castle11"
+                      ]
+                    }
+                  },
+                  {
+                    "title": "Chambers|Floor 12",
+                    "content": {
+                      "type": "map",
+                      "maps": [
+                        "castle12"
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

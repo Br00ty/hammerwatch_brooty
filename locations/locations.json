@@ -1,0 +1,395 @@
+[
+    {
+        "name": "Prison|Floor 1",
+        "chest_unopened_img": "images/items/chests.png",
+        "chest_opened_img": "images/items/chests_gray.png",
+        "children": [
+            // FLOOR 1 ITEMS
+            {
+                "name": "Prison Floor 1 Entrance Hidden Hall Secret",
+                "access_rules": ["fsw1_pf1"],
+                "sections": [
+                    {
+                        "name": "Potion",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle1",
+                        "x": 894,
+                        "y": 162
+                    }
+                ]
+            },
+            {
+                "name": "Prison Floor 1 Entrance Hidden Hall South Room",
+                "access_rules": ["fsw1_pf1"],
+                "sections": [
+                    {
+                        "name": "Bronze Key",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle1",
+                        "x": 718,
+                        "y": 382
+                    }
+                ]
+            },
+            {
+                "name": "Prison Floor 1 Entrance Hidden Hall West Room",
+                "access_rules": ["fsw1_pf1"],
+                "sections": [
+                    {
+                        "name": "Bronze Key",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle1",
+                        "x": 633,
+                        "y": 302
+                    }
+                ]
+            },
+            {
+                "name": "Item3",
+                "access_rules": ["bd1_pf1"],
+                "sections": [
+                    {
+                        "name": "Chest",
+                        "item_count": 19
+                    },
+                    {
+                        "name": "Vendor Coin",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle1",
+                        "x": 780,
+                        "y": 936
+                    }
+                ]
+            },
+            {
+                "name": "Item4",
+                "access_rules": ["bd2_pf1"],
+                "sections": [
+                    {
+                        "name": "Vendor Coin",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle1",
+                        "x": 876,
+                        "y": 1192
+                    }
+                ]
+            },
+            {
+                "name": "Item5",
+                "access_rules": ["bd1_pf1"],
+                "sections": [
+                    {
+                        "name": "Bronze Key",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle1",
+                        "x": 1124,
+                        "y": 1265
+                    }
+                ]
+            },
+            {
+                "name": "Item6",
+                "access_rules": ["bd1_pf1"],
+                "sections": [
+                    {
+                        "name": "Bronze Key",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle1",
+                        "x": 1213,
+                        "y": 927
+                    }
+                ]
+            },
+            // FLOOR 1 RECOVERYS
+            {
+                "name": "Prison Floor 1 By NW Bronze Gate",
+                "visibility_rules": [                 
+                    "recovery"                  
+                ],
+                "sections": [
+                    {
+                        "name": "Apple",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle1",
+                        "x": 811,
+                        "y": 501
+                    }
+                ]
+            },
+            {
+                "name": "Prison Floor 1 Entrance Hidden Hall Below Secret",
+                "access_rules": ["fsw1_pf1"],
+                "visibility_rules": [                 
+                    "recovery"                  
+                ],
+                "sections": [
+                    {
+                        "name": "Prison Floor 1 Entrance Hidden Hall Below Secret Dupe 1",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Prison Floor 1 Entrance Hidden Hall Below Secret Dupe 2",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Prison Floor 1 Entrance Hidden Hall Below Secret Dupe 3",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Prison Floor 1 Entrance Hidden Hall Below Secret Dupe 4",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle1",
+                        "x": 926,
+                        "y": 255
+                    }
+                ]
+            },
+            {
+                "name": "Prison Floor 1 Entrance Hidden Hall",
+                "access_rules": ["fsw1_pf1"],
+                "visibility_rules": [                 
+                    "recovery"                  
+                ],
+                "sections": [
+                    {
+                        "name": "Prison Floor 1 Entrance Hidden Hall Left",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Prison Floor 1 Entrance Hidden Hall Right",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle1",
+                        "x": 792,
+                        "y": 279
+                    }
+                ]
+            },
+            {
+                "name": "Recovery",
+                "access_rules": ["bd1_pf1"],
+                "visibility_rules": [                 
+                    "recovery"                  
+                ],
+                "sections": [
+                    {
+                        "name": "Mana Shard",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle1",
+                        "x": 814,
+                        "y": 648
+                    }
+                ]
+            },
+            {
+                "name": "Recovery",
+                "access_rules": ["bd1_pf1"],
+                "visibility_rules": [                 
+                    "recovery"                  
+                ],
+                "sections": [
+                    {
+                        "name": "Mana Shard 1",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Mana Shard 2",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Mana Shard 3",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle1",
+                        "x": 964,
+                        "y": 692
+                    }
+                ]
+            },
+            {
+                "name": "Recovery",
+                "access_rules": ["bd1_pf1"],
+                "visibility_rules": [                 
+                    "recovery"                  
+                ],
+                "sections": [
+                    {
+                        "name": "Mana Shard 1",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Mana Shard 2",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Mana Shard 3",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Mana Shard 4",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle1",
+                        "x": 912,
+                        "y": 828
+                    }
+                ]
+            },
+            {
+                "name": "Recovery",
+                "access_rules": ["bd1_pf1"],
+                "visibility_rules": [                 
+                    "recovery"                  
+                ],
+                "sections": [
+                    {
+                        "name": "Apple",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Apple",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle1",
+                        "x": 924,
+                        "y": 1138
+                    }
+                ]
+            },
+            {
+                "name": "Recovery",
+                "access_rules": ["bd1_pf1"],
+                "visibility_rules": [                 
+                    "recovery"                  
+                ],
+                "sections": [
+                    {
+                        "name": "Apple",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Apple",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Apple",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle1",
+                        "x": 1219,
+                        "y": 1091
+                    }
+                ]
+            },
+            // FLOOR 1 SWITCHES
+            {
+                "name": "Floor Switch",
+                "sections": [
+                    {
+                        "hosted_item": "fsw1_pf1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle1",
+                        "x": 909,
+                        "y": 501,
+                        "size": 15,
+                        "border_thickness": 4
+                    }
+                ]
+            },
+            // FLOOR 1 DOORS
+            {
+                "name": "Door",
+                "sections": [
+                    {
+                        "hosted_item": "bd1_pf1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle1",
+                        "x": 884,
+                        "y": 566,
+                        "size": 15,
+                        "border_thickness": 4
+                    }
+                ]
+            },
+            {
+                "name": "Door",
+                "access_rules": ["bd1_pf1"],
+                "sections": [
+                    {
+                        "hosted_item": "bd2_pf1"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "castle1",
+                        "x": 908,
+                        "y": 1192,
+                        "size": 15,
+                        "border_thickness": 4
+                    }
+                ]
+            },
+        ]
+    }
+]

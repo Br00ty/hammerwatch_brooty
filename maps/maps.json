@@ -1,0 +1,80 @@
+[
+  {
+    "name": "castle1",
+    "location_size": 20,
+    "location_border_thickness": 5,
+    "img": "images/maps/castle1.jpg"
+  },
+  {
+    "name": "castle2",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/castle2.jpg"
+  },
+  {
+    "name": "castle3",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/castle3.jpg"
+  },
+  {
+    "name": "castle4",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/castle4.jpg"
+  },
+  {
+    "name": "castle5",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/castle5.jpg"
+  },
+  {
+    "name": "castle6",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/castle6.jpg"
+  },
+  {
+    "name": "castle7",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/castle7.jpg"
+  },
+  {
+    "name": "castle8",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/castle8.jpg"
+  },
+  {
+    "name": "castle9",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/castle9.jpg"
+  },
+  {
+    "name": "castle10",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/castle10.jpg"
+  },
+  {
+    "name": "castle11",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/castle11.jpg"
+  },
+  {
+    "name": "castle12",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/castle12.jpg"
+  },
+  {
+    "name": "temple1",
+    "location_size": 48,
+    "location_border_thickness": 4,
+    "img": "images/maps/temple1.jpg"
+  }
+]

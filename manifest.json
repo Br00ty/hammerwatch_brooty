@@ -1,0 +1,22 @@
+﻿{
+  "name": "Hammerwatch Randomizer - AP",
+  "game_name": "Hammerwatch",
+  "package_version": "0.1",
+  "package_uid": "hammerwatch_brooty",
+  "platform": "PC",
+  "author": "Br00ty",
+  "variants": {
+    "standard": {
+      "display_name": "Castle Campaign",
+      "flags": [
+        "ap"
+      ]
+    },
+    "var_temple": {
+      "display_name": "Temple Campaign",
+      "flags": [
+        "ap"
+      ]
+    }
+  }
+}

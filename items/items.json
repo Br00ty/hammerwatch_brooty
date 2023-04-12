@@ -1,0 +1,28 @@
+[  
+  {
+    "name": "Recovery",
+    "type": "toggle",
+    "img": "images/items/recovery.png",
+    "codes": "recovery"
+  },
+  // Prison Floor 1 Switches
+  {
+    "name": "fsw1_pf1",
+    "type": "toggle",
+    "img": "images/items/floorswitch.png",
+    "codes": "fsw1_pf1"
+  },
+  // Prison Floor 1 Doors
+  {
+    "name": "bd1_pf1",
+    "type": "toggle",
+    "img": "images/items/doors.png",
+    "codes": "bd1_pf1"
+  },
+  {
+    "name": "bd2_pf1",
+    "type": "toggle",
+    "img": "images/items/doors.png",
+    "codes": "bd2_pf1"
+  },
+]
