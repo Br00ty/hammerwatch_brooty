@@ -1,4 +1,44 @@
 {
+    "items_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "0, 0",
+                        "h_alignment": "left",
+                        "item_size": 60,
+                        "rows": [
+                            [
+                                "plank" 
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "itemgrid",
+                        "margin": "0,0",
+                        "item_margin": "0, 1",
+                        "h_alignment": "left",
+                        "item_size": 35,
+                        "rows": [
+                            [
+                                "bronzekey", "silverkey" 
+                            ],
+                            [
+                                "goldkey", "bonuskey"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
     "settings_grid": {
         "type": "array",
         "orientation": "vertical",
@@ -6,7 +46,7 @@
         "content": [
             {
                 "type": "array",
-                "orientation": "horizontal",
+                "orientation": "vertical",
                 "margin": "0,0",
                 "content": [
                     {
@@ -16,7 +56,16 @@
                         "item_size": 60,
                         "rows": [
                             [
-                                "recovery"          
+                                "recovery"     
+                            ],
+                            [
+                                "puzzles"     
+                            ],
+                            [
+                                "enemyloot"     
+                            ],
+                            [
+                                "teleporter"     
                             ]
                         ]
                     }

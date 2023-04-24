@@ -1,9 +1,87 @@
 [  
   {
+    "name": "Plank",
+    "type": "consumable",
+    "img": "images/items/plank.png",
+    "max_quantity": 25,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "overlay_font_size": 12,
+    "codes": "plank"
+  },
+  {
+    "name": "Bronze Keys",
+    "type": "consumable",
+    "img": "images/items/key_bronze.png",
+    "max_quantity": 200,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "overlay_font_size": 12,
+    "codes": "bronzekey"
+  },
+  {
+    "name": "Silver Keys",
+    "type": "consumable",
+    "img": "images/items/key_silver.png",
+    "max_quantity": 200,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "overlay_font_size": 12,
+    "codes": "silverkey"
+  },
+  {
+    "name": "Gold Keys",
+    "type": "consumable",
+    "img": "images/items/key_gold.png",
+    "max_quantity": 200,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "overlay_font_size": 12,
+    "codes": "goldkey"
+  },
+  {
+    "name": "Bonus Keys",
+    "type": "consumable",
+    "img": "images/items/key_bonus.png",
+    "max_quantity": 200,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_background": "#000000",
+    "overlay_font_size": 12,
+    "codes": "bonuskey"
+  },
+  {
     "name": "Recovery",
     "type": "toggle",
     "img": "images/items/recovery.png",
     "codes": "recovery"
+  },
+  {
+    "name": "Puzzles",
+    "type": "toggle",
+    "img": "images/items/secret_buttons.png",
+    "codes": "puzzles"
+  },
+  {
+    "name": "Enemy Loot",
+    "type": "toggle",
+    "img": "images/items/castle_mb.png",
+    "codes": "enemyloot"
+  },
+  {
+    "name": "Shortcut Teleporter",
+    "type": "toggle",
+    "img": "images/items/teleporter.png",
+    "codes": "teleporter"
   },
   // Prison Floor 1 Switches
   {

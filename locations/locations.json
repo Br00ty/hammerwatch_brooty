@@ -17,8 +17,8 @@
                 "map_locations": [
                     {
                         "map": "castle1",
-                        "x": 894,
-                        "y": 162
+                        "x": 1100,
+                        "y": 146
                     }
                 ]
             },
@@ -34,8 +34,8 @@
                 "map_locations": [
                     {
                         "map": "castle1",
-                        "x": 718,
-                        "y": 382
+                        "x": 870,
+                        "y": 428
                     }
                 ]
             },
@@ -51,8 +51,8 @@
                 "map_locations": [
                     {
                         "map": "castle1",
-                        "x": 633,
-                        "y": 302
+                        "x": 760,
+                        "y": 325
                     }
                 ]
             },
@@ -62,7 +62,7 @@
                 "sections": [
                     {
                         "name": "Chest",
-                        "item_count": 19
+                        "item_count": 1
                     },
                     {
                         "name": "Vendor Coin",
@@ -72,8 +72,8 @@
                 "map_locations": [
                     {
                         "map": "castle1",
-                        "x": 780,
-                        "y": 936
+                        "x": 966,
+                        "y": 1148
                     }
                 ]
             },
@@ -89,8 +89,8 @@
                 "map_locations": [
                     {
                         "map": "castle1",
-                        "x": 876,
-                        "y": 1192
+                        "x": 1080,
+                        "y": 1485
                     }
                 ]
             },
@@ -106,8 +106,8 @@
                 "map_locations": [
                     {
                         "map": "castle1",
-                        "x": 1124,
-                        "y": 1265
+                        "x": 1400,
+                        "y": 1580
                     }
                 ]
             },
@@ -123,8 +123,8 @@
                 "map_locations": [
                     {
                         "map": "castle1",
-                        "x": 1213,
-                        "y": 927
+                        "x": 1515,
+                        "y": 1145
                     }
                 ]
             },
@@ -143,8 +143,8 @@
                 "map_locations": [
                     {
                         "map": "castle1",
-                        "x": 811,
-                        "y": 501
+                        "x": 992,
+                        "y": 594
                     }
                 ]
             },
@@ -175,8 +175,8 @@
                 "map_locations": [
                     {
                         "map": "castle1",
-                        "x": 926,
-                        "y": 255
+                        "x": 1142,
+                        "y": 263
                     }
                 ]
             },
@@ -199,8 +199,8 @@
                 "map_locations": [
                     {
                         "map": "castle1",
-                        "x": 792,
-                        "y": 279
+                        "x": 968,
+                        "y": 300
                     }
                 ]
             },
@@ -219,8 +219,8 @@
                 "map_locations": [
                     {
                         "map": "castle1",
-                        "x": 814,
-                        "y": 648
+                        "x": 996,
+                        "y": 779
                     }
                 ]
             },
@@ -247,8 +247,8 @@
                 "map_locations": [
                     {
                         "map": "castle1",
-                        "x": 964,
-                        "y": 692
+                        "x": 1191,
+                        "y": 836
                     }
                 ]
             },
@@ -279,8 +279,8 @@
                 "map_locations": [
                     {
                         "map": "castle1",
-                        "x": 912,
-                        "y": 828
+                        "x": 1124,
+                        "y": 1012
                     }
                 ]
             },
@@ -303,8 +303,8 @@
                 "map_locations": [
                     {
                         "map": "castle1",
-                        "x": 924,
-                        "y": 1138
+                        "x": 1139,
+                        "y": 1416
                     }
                 ]
             },
@@ -331,8 +331,8 @@
                 "map_locations": [
                     {
                         "map": "castle1",
-                        "x": 1219,
-                        "y": 1091
+                        "x": 1524,
+                        "y": 1356
                     }
                 ]
             },
@@ -347,8 +347,8 @@
                 "map_locations": [
                     {
                         "map": "castle1",
-                        "x": 909,
-                        "y": 501,
+                        "x": 1120,
+                        "y": 590,
                         "size": 15,
                         "border_thickness": 4
                     }
@@ -365,8 +365,8 @@
                 "map_locations": [
                     {
                         "map": "castle1",
-                        "x": 884,
-                        "y": 566,
+                        "x": 1090,
+                        "y": 670,
                         "size": 15,
                         "border_thickness": 4
                     }
@@ -383,8 +383,8 @@
                 "map_locations": [
                     {
                         "map": "castle1",
-                        "x": 908,
-                        "y": 1192,
+                        "x": 1120,
+                        "y": 1485,
                         "size": 15,
                         "border_thickness": 4
                     }
