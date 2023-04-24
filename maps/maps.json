@@ -3,78 +3,78 @@
     "name": "castle1",
     "location_size": 20,
     "location_border_thickness": 5,
-    "img": "images/maps/castle1.jpg"
+    "img": "images/castle/castle_prison_1.png"
   },
   {
     "name": "castle2",
     "location_size": 48,
     "location_border_thickness": 4,
-    "img": "images/maps/castle2.jpg"
+    "img": "images/castle/castle_prison_2.png"
   },
   {
     "name": "castle3",
     "location_size": 48,
     "location_border_thickness": 4,
-    "img": "images/maps/castle3.jpg"
+    "img": "images/castle/castle_prison_3.png"
   },
   {
     "name": "castle4",
     "location_size": 48,
     "location_border_thickness": 4,
-    "img": "images/maps/castle4.jpg"
+    "img": "images/castle/castle_armory_1.png"
   },
   {
     "name": "castle5",
     "location_size": 48,
     "location_border_thickness": 4,
-    "img": "images/maps/castle5.jpg"
+    "img": "images/castle/castle_armory_2.png"
   },
   {
     "name": "castle6",
     "location_size": 48,
     "location_border_thickness": 4,
-    "img": "images/maps/castle6.jpg"
+    "img": "images/castle/castle_armory_3.png"
   },
   {
     "name": "castle7",
     "location_size": 48,
     "location_border_thickness": 4,
-    "img": "images/maps/castle7.jpg"
+    "img": "images/castle/castle_archives_1.png"
   },
   {
     "name": "castle8",
     "location_size": 48,
     "location_border_thickness": 4,
-    "img": "images/maps/castle8.jpg"
+    "img": "images/castle/castle_archives_2.png"
   },
   {
     "name": "castle9",
     "location_size": 48,
     "location_border_thickness": 4,
-    "img": "images/maps/castle9.jpg"
+    "img": "images/castle/castle_archives_3.png"
   },
   {
     "name": "castle10",
     "location_size": 48,
     "location_border_thickness": 4,
-    "img": "images/maps/castle10.jpg"
+    "img": "images/castle/castle_chambers_1.png"
   },
   {
     "name": "castle11",
     "location_size": 48,
     "location_border_thickness": 4,
-    "img": "images/maps/castle11.jpg"
+    "img": "images/castle/castle_chambers_2.png"
   },
   {
     "name": "castle12",
     "location_size": 48,
     "location_border_thickness": 4,
-    "img": "images/maps/castle12.jpg"
+    "img": "images/castle/castle_chambers_3.png"
   },
   {
     "name": "temple1",
     "location_size": 48,
     "location_border_thickness": 4,
-    "img": "images/maps/temple1.jpg"
+    "img": "images/temple/temple1.png"
   }
 ]
